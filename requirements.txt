@@ -1,0 +1,12 @@
+together
+matplotlib
+seaborn
+pandas
+openpyxl
+python-docx
+pdfplumber
+pytesseract
+pillow
+PyMuPDF
+ipython
+requests
